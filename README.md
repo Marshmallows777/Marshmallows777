@@ -1,4 +1,4 @@
-![logo](https://github.com/Marshmallows777/Marshmallows777/blob/master/Black%20And%20White%20Minimalist%20Personal%20Linkedln%20Banner.gif)
+![logo](https://github.com/Marshmallows777/Marshmallows777/blob/master/github_banner.gif)
 
 <h1 align="center">Hey 👋, I'm Adarsh</h1>
 <h3 align="center">A passionate android app developer from India</h3>
