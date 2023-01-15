@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FlBMooYfCq2loJvlGrCYat0_CZMn1ALP/view](https://drive.google.com/file/d/1FlBMooYfCq2loJvlGrCYat0_CZMn1ALP/view)
 
-- ⚡ Fun fact **Coding will soon become as momentous as learning to read, write...**
+- ⚡ Fun fact: **Coding will soon become as momentous as learning to read, write...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
