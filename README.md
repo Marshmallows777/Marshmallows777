@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uaha4yIbJVBpmtKBfFPlXuEsYl92-UtI/view?usp=share_link](https://drive.google.com/file/d/1uaha4yIbJVBpmtKBfFPlXuEsYl92-UtI/view?usp=share_link)
 
-- ⚡ Fun fact: **Coding will soon become as momentous as learning to read, write...**
+- ⚡ Fun fact: **If debugging is the process of removing software bugs, then programming must be the process of putting them in...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
